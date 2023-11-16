@@ -1,0 +1,22 @@
+version: '3.4'
+
+services:
+  backend:
+    image: ${DOCKER_REGISTRY-}carshowroomproject
+    build:
+      context: .
+      dockerfile: CarShowRoomProject/Dockerfile
+    networks:
+      - carshowroom_network
+
+  client:
+    image: client
+    build:
+      context: C:\Users\artur\RiderProjects\CarShowRoom\React\frontend-react-app
+      dockerfile: Dockerfile
+    networks:
+      - carshowroom_network
+
+networks:
+  carshowroom_network:
+    driver: bridge
