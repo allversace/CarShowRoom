@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32ced58a-6ca8-468f-840c-3d52f2692c04" name="Changes" comment="...">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/CarShowRoom/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/CarShowRoom/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
-    </list>
+    <list default="true" id="32ced58a-6ca8-468f-840c-3d52f2692c04" name="Changes" comment="..." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,8 +27,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "gg",
-    "last_opened_file_path": "C:/Users/artur/RiderProjects/CarShowRoom",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/artur/RiderProjects/CarShowRoom/CarShowRoomProject/React.js",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,6 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1700129715055</updated>
       <workItem from="1700129716057" duration="1709000" />
+      <workItem from="1700159468045" duration="169000" />
     </task>
     <task id="LOCAL-00001" summary="...">
       <created>1700129773960</created>

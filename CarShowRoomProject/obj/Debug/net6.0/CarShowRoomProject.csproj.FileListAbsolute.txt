@@ -294,3 +294,9 @@ C:\Users\artur\RiderProjects\CarShowRoom\CarShowRoomProject\bin\Debug\net6.0\run
 C:\Users\artur\RiderProjects\CarShowRoom\CarShowRoomProject\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\artur\RiderProjects\CarShowRoom\CarShowRoomProject\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\artur\RiderProjects\CarShowRoom\CarShowRoomProject\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\artur\RiderProjects\CarShowRoom\CarShowRoomProject\bin\Debug\net6.0\React.js\frontend-react-app\build\asset-manifest.json
+C:\Users\artur\RiderProjects\CarShowRoom\CarShowRoomProject\bin\Debug\net6.0\React.js\frontend-react-app\build\manifest.json
+C:\Users\artur\RiderProjects\CarShowRoom\CarShowRoomProject\bin\Debug\net6.0\React.js\frontend-react-app\package-lock.json
+C:\Users\artur\RiderProjects\CarShowRoom\CarShowRoomProject\bin\Debug\net6.0\React.js\frontend-react-app\package.json
+C:\Users\artur\RiderProjects\CarShowRoom\CarShowRoomProject\bin\Debug\net6.0\React.js\frontend-react-app\public\manifest.json
+C:\Users\artur\RiderProjects\CarShowRoom\CarShowRoomProject\bin\Debug\net6.0\React.js\package-lock.json
